@@ -1,2 +1,6 @@
 This is file no 2
+<<<<<<< HEAD
 There are changes from the master branch
+=======
+There are changes from new branch
+>>>>>>> new-branch
