@@ -1,1 +1,2 @@
 This is file no 2
+There are changes from the master branch
